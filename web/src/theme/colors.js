@@ -3,7 +3,7 @@ const paleTeal = '#69c0ba'
 const lightTeal = '#9adcd7'
 const greyichBrown = '#4a4a4a'
 const warmGrey = '#9b9b9b'
-const BubbleGum = '#e97db5'
+const bubbleGum = '#e97db5'
 
 export const colors = {
   white,
@@ -11,5 +11,5 @@ export const colors = {
   lightTeal,
   greyichBrown,
   warmGrey,
-  BubbleGum
+  bubbleGum
 }
