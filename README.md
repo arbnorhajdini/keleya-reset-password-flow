@@ -1,6 +1,4 @@
-# keleya-reset-password-flow
-
-# Getting Started with the reset password Application
+# Getting Started with the reset password flow
 
 This is a Single Page Application that lets users to vote through the Polls API.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,7 +42,7 @@ Installs the required dependencies in the local node_modules folder that are def
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:8000/en](http://localhost:8000/de) to view it in the browser.
+Open [http://localhost:8000/en](http://localhost:8000/en) or [http://localhost:8000/de](http://localhost:8000/de) to view it in the browser.
 
 The page will reload automatically if you make edits.\
 You may also see any linting errors in the console.
