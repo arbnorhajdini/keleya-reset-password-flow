@@ -1,8 +1,7 @@
 # Getting Started with the reset password flow
 
-This is a Single Page Application that lets users to vote through the Polls API.
+This is a Single Page Application that allows to reset password.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Documentation for the Polls API is available [here](https://pollsapi.docs.apiary.io/).
 The application is tested End-2-End using [Cypress Framework](https://www.cypress.io/)
 
 ## Technology Stack
