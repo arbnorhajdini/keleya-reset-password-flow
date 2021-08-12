@@ -60,13 +60,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 In the './cypress' directory, you can run the following commands using a terminal:
 
-### `npm run cy:run`
-
-Runs all the integration tests in the terminal.
-
-### `npm run cy:open`
-
-Runs all the integration tests in a separate browser.
+### `npm run e2e`
 
 ## Learn More
 
